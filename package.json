@@ -1,8 +1,8 @@
 {
-  "name": "freckle"
-, "description": "Node.js freckle api bindings"
+  "name": "frecklev2"
+, "description": "Node.js freckle V2 api bindings"
 , "version": "0.0.1"
-, "author": "Tim Branyen <tim@tabdeveloper.com> (http://twitter.com/tbranyen)"
+, "author": "Nic Hobbs <github@nichobbs.id.au>"
 , "main": "./lib/index.js"
 , "directories": {
     "lib": "./lib"
